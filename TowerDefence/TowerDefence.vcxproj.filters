@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Game">
+      <UniqueIdentifier>{a43e6a74-304b-4e34-abba-379dfca5f18f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Cell">
+      <UniqueIdentifier>{cf8a5694-02f7-478b-b04d-292f5172970a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Map">
+      <UniqueIdentifier>{b4d67bd4-517b-4a3e-9286-69f29cf97b3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\main">
+      <UniqueIdentifier>{6ef987cf-5cc5-4cbb-af86-54f73258d613}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Enemy">
+      <UniqueIdentifier>{cf4bd306-ca8f-4834-a354-9ee8cc3d444c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Aura">
+      <UniqueIdentifier>{798dde7f-a64d-44a0-a40b-51d65ff8c513}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Aura\RegenerationAura">
+      <UniqueIdentifier>{569d9c1b-3232-414f-aa4b-40783481d1e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Aura\MaxHpAura">
+      <UniqueIdentifier>{c5937943-b5bc-4301-b125-fae835a3dd1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Aura\SpeedAura">
+      <UniqueIdentifier>{34690230-fe7f-4ffa-b370-a847c1fa6158}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Enemy\LightWeightEnemy">
+      <UniqueIdentifier>{c4f86de8-4e24-421b-b063-cec37384c1e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Enemy\HeavyEnemy">
+      <UniqueIdentifier>{75c78984-e84e-4c78-b1a3-d36940555876}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Enemy\AviationEnemy">
+      <UniqueIdentifier>{76eeae2f-7d78-4ccc-9eb2-411e18269b60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Cell\Mountain">
+      <UniqueIdentifier>{69d07ffc-5d3d-4e29-95b3-578270e6541d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Cell\Land">
+      <UniqueIdentifier>{1efa384e-7caf-4c22-9b41-04abda5214ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Cell\Water">
+      <UniqueIdentifier>{3f68a03e-19a2-436e-a1fb-6dd817193389}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Cell\Building">
+      <UniqueIdentifier>{64edd33c-cea3-4480-8b8d-1edc1d10cb57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Cell\Building\Lire">
+      <UniqueIdentifier>{8d4a5e5f-9642-4258-93f3-4fca8dcc1ebe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Cell\Building\Wall">
+      <UniqueIdentifier>{579702e8-4c34-4640-a87e-a5842f1acee8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Cell\Building\Castle">
+      <UniqueIdentifier>{ba0cd2f4-003f-4952-bcc7-08fd32a7ee8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Cell\Building\Tower">
+      <UniqueIdentifier>{f79ba708-6b86-43d3-a233-518d53138009}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\DeriveObject">
+      <UniqueIdentifier>{59da35b9-8ad3-4134-a3c1-deeaaa74b111}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\DeriveObject\HasLifeObject">
+      <UniqueIdentifier>{cb36bcfa-2cdc-4d6e-877a-785a51ffcb6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\DeriveObject\HasLevelObject">
+      <UniqueIdentifier>{2730621a-100b-4f4c-8d6c-30392c251a95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\DeriveObject\RepairedObject">
+      <UniqueIdentifier>{6c91edde-8b9d-4231-8187-1dd231791938}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\WinhFunc">
+      <UniqueIdentifier>{2156a4cb-4aeb-4385-ba84-dca898ebf2b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\ObjectManager">
+      <UniqueIdentifier>{3347e64e-cba2-4a77-bebb-05691eb7bb62}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TD\Game.cpp">
+      <Filter>Исходные файлы\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell\Cell.cpp">
+      <Filter>Исходные файлы\Cell</Filter>
+    </ClCompile>
+    <ClCompile Include="main\main.cpp">
+      <Filter>Исходные файлы\main</Filter>
+    </ClCompile>
+    <ClCompile Include="Map\Map.cpp">
+      <Filter>Исходные файлы\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell\Land\Land.cpp">
+      <Filter>Исходные файлы\Cell\Land</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell\Mountain\Mountain.cpp">
+      <Filter>Исходные файлы\Cell\Mountain</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell\Water\Water.cpp">
+      <Filter>Исходные файлы\Cell\Water</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy\Enemy.cpp">
+      <Filter>Исходные файлы\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy\Aura\RegenerationAura\RegenerationAura.cpp">
+      <Filter>Исходные файлы\Aura\RegenerationAura</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy\Aura\MaxHPAura\MaxHpAura.cpp">
+      <Filter>Исходные файлы\Aura\MaxHpAura</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy\Aura\SpeedAura\SpeedAura.cpp">
+      <Filter>Исходные файлы\Aura\SpeedAura</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell\Building\Wall\Wall.cpp">
+      <Filter>Исходные файлы\Cell\Building\Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell\Building\Lire\Lire.cpp">
+      <Filter>Исходные файлы\Cell\Building\Lire</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell\Building\Castle\Castle.cpp">
+      <Filter>Исходные файлы\Cell\Building\Castle</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell\Building\Building.cpp">
+      <Filter>Исходные файлы\Cell\Building</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy\LightweightEnemy\LightWeightEnemy.cpp">
+      <Filter>Исходные файлы\Enemy\LightWeightEnemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy\HeavyEnemy\HeavyEnemy.cpp">
+      <Filter>Исходные файлы\Enemy\HeavyEnemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy\AviationEnemy\AviationEnemy.cpp">
+      <Filter>Исходные файлы\Enemy\AviationEnemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell\Building\Tower\Tower.cpp">
+      <Filter>Исходные файлы\Cell\Building\Tower</Filter>
+    </ClCompile>
+    <ClCompile Include="WinhFunc\WinhFunc.cpp">
+      <Filter>Исходные файлы\WinhFunc</Filter>
+    </ClCompile>
+    <ClCompile Include="DeriveObjects\HasLifeObject\HasLifeObject.cpp">
+      <Filter>Исходные файлы\DeriveObject\HasLifeObject</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TD\Game.h">
+      <Filter>Исходные файлы\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell\Land\Land.h">
+      <Filter>Исходные файлы\Cell\Land</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell\Mountain\Mountain.h">
+      <Filter>Исходные файлы\Cell\Mountain</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell\Water\Water.h">
+      <Filter>Исходные файлы\Cell\Water</Filter>
+    </ClInclude>
+    <ClInclude Include="Map\Map.h">
+      <Filter>Исходные файлы\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell\Cell.h">
+      <Filter>Исходные файлы\Cell</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy\Enemy.h">
+      <Filter>Исходные файлы\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy\Aura\Aura.h">
+      <Filter>Исходные файлы\Aura</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy\Aura\RegenerationAura\RegenerationAura.h">
+      <Filter>Исходные файлы\Aura\RegenerationAura</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy\Aura\MaxHPAura\MaxHPAura.h">
+      <Filter>Исходные файлы\Aura\MaxHpAura</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy\Aura\SpeedAura\SpeedAura.h">
+      <Filter>Исходные файлы\Aura\SpeedAura</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy\HeavyEnemy\HeavyEnemy.h">
+      <Filter>Исходные файлы\Enemy\HeavyEnemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy\LightweightEnemy\LightWeightEnemy.h">
+      <Filter>Исходные файлы\Enemy\LightWeightEnemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy\AviationEnemy\AviationEnemy.h">
+      <Filter>Исходные файлы\Enemy\AviationEnemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell\Building\Building.h">
+      <Filter>Исходные файлы\Cell\Building</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell\Building\Wall\Wall.h">
+      <Filter>Исходные файлы\Cell\Building\Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell\Building\Lire\Lire.h">
+      <Filter>Исходные файлы\Cell\Building\Lire</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell\Building\Castle\Castle.h">
+      <Filter>Исходные файлы\Cell\Building\Castle</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell\Building\Tower\Tower.h">
+      <Filter>Исходные файлы\Cell\Building\Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="DeriveObjects\HasLifeObject\HasLifeObject.h">
+      <Filter>Исходные файлы\DeriveObject\HasLifeObject</Filter>
+    </ClInclude>
+    <ClInclude Include="DeriveObjects\HasLevelObject\HasLevelObject.h">
+      <Filter>Исходные файлы\DeriveObject\HasLevelObject</Filter>
+    </ClInclude>
+    <ClInclude Include="DeriveObjects\RepairedObject\RepairedObject.h">
+      <Filter>Исходные файлы\DeriveObject\RepairedObject</Filter>
+    </ClInclude>
+    <ClInclude Include="WinhFunc\WinhFunc.h">
+      <Filter>Исходные файлы\WinhFunc</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManager\ObjectManager.h">
+      <Filter>Исходные файлы\ObjectManager</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
